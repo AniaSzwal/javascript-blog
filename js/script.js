@@ -3,8 +3,11 @@
     console.log('links:', links);
 }); */
 
-const clickedElement = this;
+
 const titleClickHandler = function(event){
+    event.preventDefault();
+    const articleSelector='http://localhost:3002/#article-1';
+    const clickedElement = this;
     console.log('Link was clicked!');
     console.log(event)
     
@@ -28,6 +31,7 @@ const titleClickHandler = function(event){
     }
 
     /* get 'href' attribute from the clicked link */
+
 
     /* find the correct article using the selector (value of 'href' attribute) */
 

@@ -24,6 +24,23 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
+  <component name="RunManager">
+    <configuration name="watch" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="watch" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.watch" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,7 +51,7 @@
       <updated>1613442006313</updated>
       <workItem from="1613442008224" duration="3527000" />
       <workItem from="1613502168568" duration="2298000" />
-      <workItem from="1613509435816" duration="6037000" />
+      <workItem from="1613509435816" duration="8183000" />
     </task>
     <servers />
   </component>
@@ -62,6 +79,10 @@
       <screen x="0" y="0" width="1422" height="760" />
     </state>
     <state x="522" y="242" width="379" height="276" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE/0.0.1422.760@0.0.1422.760" timestamp="1613442245872" />
+    <state x="370" y="171" key="run.anything.popup" timestamp="1613516689428">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="370" y="171" key="run.anything.popup/0.0.1422.760@0.0.1422.760" timestamp="1613516689428" />
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history />
