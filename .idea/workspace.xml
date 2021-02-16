@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9891fb52-2eb5-4bb3-a6f2-984593aa4845" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/javascript-blog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oXnrWyGEmFGWkF93dSKHiN3TYT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9891fb52-2eb5-4bb3-a6f2-984593aa4845" name="Default Changelist" comment="" />
+      <created>1613442006313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613442006313</updated>
+      <workItem from="1613442008224" duration="773000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="565" y="215" key="#File_Watchers" timestamp="1613442130652">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="565" y="215" key="#File_Watchers/0.0.1422.760@0.0.1422.760" timestamp="1613442130652" />
+    <state x="168" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613442187585">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="168" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1422.760@0.0.1422.760" timestamp="1613442187585" />
+    <state x="383" y="159" key="EditFileWatcherDialog" timestamp="1613442084567">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="383" y="159" key="EditFileWatcherDialog/0.0.1422.760@0.0.1422.760" timestamp="1613442084567" />
+    <state x="222" y="26" key="SettingsEditor" timestamp="1613442217495">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="222" y="26" key="SettingsEditor/0.0.1422.760@0.0.1422.760" timestamp="1613442217495" />
+    <state x="522" y="242" width="379" height="276" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE" timestamp="1613442245872">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="522" y="242" width="379" height="276" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE/0.0.1422.760@0.0.1422.760" timestamp="1613442245872" />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+</project>
