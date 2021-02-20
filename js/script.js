@@ -6,7 +6,7 @@
 
 const titleClickHandler = function(event){
     event.preventDefault();
-    const articleSelector='http://localhost:3002/#article-1';
+    let articleSelector = 'href';
     const clickedElement = this;
     console.log('Link was clicked!');
     console.log(event)
@@ -31,10 +31,16 @@ const titleClickHandler = function(event){
         activeArticle.classList.remove('active');
     }
 
-    /* [IN PROGRESS] get 'href' attribute from the clicked link */
+    /* [DONE] get 'href' attribute from the clicked link */
 
+        document.getElementById("article-1");
+        articleSelector = clickedElement.getAttribute("href");
+        console.log ('Link was clicked', articleSelector)
 
     /* find the correct article using the selector (value of 'href' attribute) */
+
+    const targetArticle = document.querySelector('href');
+    console.log(targetArticle);
 
     /* add class 'active' to the correct article */
 }

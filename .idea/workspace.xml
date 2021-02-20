@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9891fb52-2eb5-4bb3-a6f2-984593aa4845" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,7 @@
       <workItem from="1613442008224" duration="3527000" />
       <workItem from="1613502168568" duration="2298000" />
       <workItem from="1613509435816" duration="8183000" />
-      <workItem from="1613833518812" duration="785000" />
+      <workItem from="1613833518812" duration="9402000" />
     </task>
     <servers />
   </component>
@@ -76,6 +77,10 @@
       <screen x="0" y="0" width="1422" height="760" />
     </state>
     <state x="222" y="26" key="SettingsEditor/0.0.1422.760@0.0.1422.760" timestamp="1613442217495" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1613839878703">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1422.760@0.0.1422.760" timestamp="1613839878703" />
     <state x="522" y="242" width="379" height="276" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE" timestamp="1613442245872">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
