@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9891fb52-2eb5-4bb3-a6f2-984593aa4845" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +53,7 @@
       <workItem from="1613502168568" duration="2298000" />
       <workItem from="1613509435816" duration="8183000" />
       <workItem from="1613833518812" duration="15370000" />
-      <workItem from="1613853749171" duration="4688000" />
-      <workItem from="1613858592137" duration="9548000" />
+      <workItem from="1613853749171" duration="3340000" />
     </task>
     <servers />
   </component>
@@ -85,10 +85,10 @@
       <screen x="0" y="0" width="1422" height="760" />
     </state>
     <state x="522" y="242" width="379" height="276" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE/0.0.1422.760@0.0.1422.760" timestamp="1613442245872" />
-    <state x="370" y="171" key="run.anything.popup" timestamp="1613866397915">
+    <state x="370" y="171" key="run.anything.popup" timestamp="1613516689428">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
-    <state x="370" y="171" key="run.anything.popup/0.0.1422.760@0.0.1422.760" timestamp="1613866397915" />
+    <state x="370" y="171" key="run.anything.popup/0.0.1422.760@0.0.1422.760" timestamp="1613516689428" />
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history />
