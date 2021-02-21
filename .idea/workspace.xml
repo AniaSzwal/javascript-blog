@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9891fb52-2eb5-4bb3-a6f2-984593aa4845" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +56,8 @@
       <workItem from="1613509435816" duration="8183000" />
       <workItem from="1613833518812" duration="15370000" />
       <workItem from="1613853749171" duration="3340000" />
-      <workItem from="1613926423723" duration="4914000" />
+      <workItem from="1613926423723" duration="5722000" />
+      <workItem from="1613933793678" duration="1129000" />
     </task>
     <servers />
   </component>
@@ -82,6 +85,10 @@
       <screen x="0" y="0" width="1422" height="760" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1422.760@0.0.1422.760" timestamp="1613839878703" />
+    <state x="562" y="294" key="VCS.ChangelistChooser" timestamp="1613931361470">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="562" y="294" key="VCS.ChangelistChooser/0.0.1422.760@0.0.1422.760" timestamp="1613931361470" />
     <state x="522" y="242" width="379" height="276" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.SIMPLE" timestamp="1613442245872">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
