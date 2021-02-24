@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9891fb52-2eb5-4bb3-a6f2-984593aa4845" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -57,7 +58,9 @@
       <workItem from="1613833518812" duration="15370000" />
       <workItem from="1613853749171" duration="3340000" />
       <workItem from="1613926423723" duration="5722000" />
-      <workItem from="1613933793678" duration="1129000" />
+      <workItem from="1613933793678" duration="7278000" />
+      <workItem from="1613952619336" duration="128000" />
+      <workItem from="1614100216420" duration="22384000" />
     </task>
     <servers />
   </component>
@@ -65,6 +68,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="537" y="38" key="#Code_Folding" timestamp="1614116771548">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="537" y="38" key="#Code_Folding/0.0.1422.760@0.0.1422.760" timestamp="1614116771548" />
     <state x="565" y="215" key="#File_Watchers" timestamp="1613442130652">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
