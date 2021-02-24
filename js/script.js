@@ -48,7 +48,7 @@
     console.log(optArticleSelector);
     console.log(customSelector);
 
-    let html = ' ';
+    let html = '';
 
     for (let article of articles) {
 
@@ -100,15 +100,15 @@
 
       for (let tag of articleTagsArray) {
 
-          const linkHTML = '<li><a href="#tag-' + tag + '"><span>' + tag + '</span></a></li>';
-          console.log(linkHTML);
+        const linkHTML = '<li><a href="#tag-' + tag + '"><span>' + tag + '</span></a></li>';
+        console.log(linkHTML);
 
-          tagsWrapperList.innerHTML = tagsWrapperList.innerHTML + linkHTML;
-          html = html + linkHTML;
+        tagsWrapperList.innerHTML = tagsWrapperList.innerHTML + linkHTML;
+        html = html + linkHTML;
 
       }
 
-        tagsWrapperList.innerHTML = html;
+      tagsWrapperList.innerHTML = html;
 
     }
   }
@@ -171,7 +171,7 @@
       tag.addEventListener('click', tagClickHandler);
     }
   }
-addClickListenersToTags();
+  addClickListenersToTags();
 
 
   function generateAuthors() {
@@ -210,8 +210,8 @@ addClickListenersToTags();
     for (let activeAuthor of activeAuthors) {
       activeAuthor.classList.remove('active');
     }
-    const clickedAuthors = document.querySelectorAll('a[href="' + href + '"]');
-    generateTitleLinks('[data-author="' + clickedAuthors + '"]');
+    document.querySelectorAll('a[href="' + href + '"]');
+    generateTitleLinks('[data-author="' + author + '"]');
   }
 
   function addClickListenersToAuthors() {
