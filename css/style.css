@@ -81,6 +81,70 @@ body {
   display: inline-block;
 }
 
+/* Tags */
+.list.tags {
+  display: inline-block;
+}
+
+.list.tags .tag-size-1 {
+  font-size: 16px;
+  color: firebrick;
+}
+
+.list.tags .tag-size-2 {
+  font-size: 18px;
+  color: darkorange;
+}
+
+.list.tags .tag-size-3 {
+  font-size: 20px;
+  color: olivedrab;
+}
+
+.list.tags .tag-size-4 {
+  font-size: 22px;
+  color: dodgerblue;
+}
+
+.list.tags .tag-size-5 {
+  font-size: 24px;
+  color: magenta;
+}
+
+/* Authors */
+.authors {
+  display: inline-block;
+}
+
+.authors li {
+  margin-bottom: 12px;
+}
+
+.authors .author-size-1 {
+  font-size: 16px;
+  color: chocolate;
+}
+
+.authors .author-size-2 {
+  font-size: 18px;
+  color: darkblue;
+}
+
+.authors .author-size-3 {
+  font-size: 20px;
+  color: cornflowerblue;
+}
+
+.authors .author-size-4 {
+  font-size: 22px;
+  color: darkmagenta;
+}
+
+.authors .author-size-5 {
+  font-size: 24px;
+  color: cadetblue;
+}
+
 /* Authors */
 .authors li {
   margin-bottom: 12px;
@@ -106,5 +170,9 @@ body {
 
 .post-tags p {
   margin: 0 10px 0 0;
+}
+
+a {
+  text-decoration: none;
 }
 /*# sourceMappingURL=style.css.map */
